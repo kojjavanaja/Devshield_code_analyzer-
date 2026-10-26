@@ -1,0 +1,1 @@
+For production, terminate TLS at a trusted reverse proxy, configure strict security headers, request size limits and rate limits, and proxy only to private API services. The supplied client nginx config is for SPA routing in the local container setup.

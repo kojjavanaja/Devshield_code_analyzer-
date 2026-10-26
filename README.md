@@ -1,2 +1,1 @@
-# Devshield_code_analyzer-
-DevShield – Intelligent Code Quality, Security and Bug Risk Analyzer   
+Module boundary reserved for further decomposition; active route composition and API endpoints are currently implemented in the main application modules.
